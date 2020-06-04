@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    background-color: #283149;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #99cc00;
+    font-family: 'Special Elite', cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+set {
+    margin: 10% auto;
+}
+
+button {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    padding-top: 20px;
+    border-radius: 8px;
+    border-style: none;
+    font-size: 5rem;
+    color: magenta;
+    background-color: #99cc00;
+    font-family: 'Special Elite', cursive;
+}
+.hardBass{
+    color: white;
+    font-style: Verdana;
+    font-size: 2rem;
+}
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+    background-color: magenta;
+    color: #99cc00;
+}
